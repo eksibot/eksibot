@@ -34,3 +34,10 @@ bilim?yazar=vulpius
 siyaset?yazar=immanuel-tolstoyevski
 bilim?yazar=immanuel-tolstoyevski
 siyaset?yazar=d-k-a
+
+edit 
+====
+
+linkleri otomatik olarak yan yana alıyor github alt alta olması önemli
+
+bilmeyenler için wampserver kurulumu ve php scriptinin çalıştırılması: http://www.phpprogramlama.com/blog/wamp-server-kurulumu.php
